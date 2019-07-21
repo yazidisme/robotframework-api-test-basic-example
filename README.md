@@ -1,5 +1,6 @@
 ## REST API Sample Test
 
+Simply REST API test for GET Http method
 
 ### You Need
 * Install [Robotframework](https://pypi.org/project/robotframework/)
